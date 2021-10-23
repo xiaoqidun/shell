@@ -97,7 +97,7 @@ if ($command !== "") {
 <pre id="commandHistory" class="commandHistory"></pre>
 <pre id="commandResult" class="commandResult"></pre>
 <div class="author">
-    CopyRight © 2017-<?= date("Y") + 1 ?> xiaoqidun@gmail.com All Rights Reserved
+    CopyRight © 2017-<?= date("Y") ?> xiaoqidun@gmail.com All Rights Reserved
 </div>
 </body>
 </html>
